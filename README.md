@@ -16,9 +16,10 @@ Hi there! 👋 I'm a **Senior DevOps Engineer** with **9+ years of experience**,
 - **GitOps**: ArgoCD, Flux
 
 ## 📌 Projects & Contributions
--🔹 **Automated Blue-Green Deployment for Azure VM Scale Sets (VMSS)**
--🔹 **Packer-based Image Pipelines with Azure Compute Gallery**
--🔹 **Optimized CI/CD Pipelines for .NET, Java, and SAP BTP Applications**
+- 🔹 **Automated Blue-Green Deployment for Azure VM Scale Sets (VMSS)**  
+- 🔹 **Packer-based Image Pipelines with Azure Compute Gallery**  
+- 🔹 **Custom Azure Extension for PFX Certificate Import & IIS Binding**  
+- 🔹 **Optimized CI/CD Pipelines for .NET, Java, and SAP BTP Applications** 
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-apte-867092b8/)  
